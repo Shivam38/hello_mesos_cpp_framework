@@ -6,7 +6,7 @@ Till now, there is no sample framework has been written in C++ for Mesos, hence 
 This framework resolves the complexity of the build process of Mesos and use the Makefile in simple way so that Developers can customise it according to thier need.
 
 Build process-->
-Clone
-cd hello_mesos_cpp_framework
-make
-./hello_mesos 127.0.0.1
+Clone;
+cd hello_mesos_cpp_framework;
+make;
+./hello_mesos 127.0.0.1;
